@@ -1,7 +1,5 @@
-An example of  website XSS vulnerable checker writen in NodeJS.
-
 # XSimple
-A really simple website XSS vulnerable checker.
+A really simple example of website XSS vulnerable checker writen in NodeJS.
 
 # Installation
 npm:
