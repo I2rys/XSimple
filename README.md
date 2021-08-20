@@ -1,5 +1,5 @@
 <h1 align="center">XSimple</h1>
-<h4 align="center">A really simple example of website XSS vulnerable checker writen in NodeJS.</h4>
+<h4 align="center">A really simple example of website XSS vulnerable checker writen in NodeJS</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/XSimple/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/XSimple?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/XSimple"><img src="https://bettercodehub.com/edge/badge/I2rys/XSimple?branch=main"></a>
