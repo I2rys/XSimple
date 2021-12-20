@@ -2,7 +2,7 @@
 const Puppeteer = require("puppeteer")
 
 //Variables
-var URL_WPayload = "http://testphp.vulnweb.com/listproducts.php?cat=s"
+const URL_WPayload = "http://testphp.vulnweb.com/listproducts.php?cat=s"
 
 //Main
 Main()
